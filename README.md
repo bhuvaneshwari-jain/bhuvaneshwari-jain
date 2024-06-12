@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhuvaneshwari_jain
+- 👋 Hi, I’m Bhuvaneshwari_jain
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning in BCA
 - 💞️ I’m looking to collaborate on unique things
