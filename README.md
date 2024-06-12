@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @bhuvaneshwari-jain
+- 👋 Hi, I’m @bhuvaneshwari_jain
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning in BCA
 - 💞️ I’m looking to collaborate on unique things
 - 📫 How to reach me
   www.linkedin.com/in/
-bhuvaneshwari-jain
+bhuvaneshwari_jain
 
 
 <!---
